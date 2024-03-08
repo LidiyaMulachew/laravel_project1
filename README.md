@@ -1,9 +1,9 @@
 
 CRUD
-read - using table
-    student data 
-    teacher data 
-    education 
+read - using table,
+    - student data ,
+    - teacher data ,
+    - education ,
 
     add one column for deleting and editing. 
 
